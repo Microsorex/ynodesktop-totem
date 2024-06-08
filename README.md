@@ -1,6 +1,6 @@
 ![ynodesk](https://user-images.githubusercontent.com/2998216/201456135-270da105-a4fa-4976-a69a-3a69e5d3fe59.png)
 
-A desktop client for [Yume Nikki Online](https://ynoproject.net/) with Discord Rich Presence.  
+A desktop client for [Yume Nikki Online](https://ynoproject.net/) with Discord Rich Presence, updated for support with Collective Unconscious.
 Show your friends what game you're playing and what room you're in. Also looks pretty cool as an installed program.  
 Created as a simple Electron wrapper around the website, with discord-rpc and some hacks to make save exporting/importing work.  
 
@@ -10,7 +10,7 @@ Created as a simple Electron wrapper around the website, with discord-rpc and so
 
 ## Download
 The releases are currently Windows-only.  
-[Click here to go to the download page for the latest release.](https://github.com/joaovitorbf/ynodesktop/releases/latest)
+[Click here to go to the download page for the latest release.](https://github.com/Microsorex/ynodesktop-totem/releases)
 
 ## [YNOproject](https://github.com/ynoproject)
 Click on the heading to check out the Yume Nikki Online Project!
